@@ -21,8 +21,7 @@ the Navier-Stokes equations using 10,000 parallel AI agents.
 Visit the blog: [https://github.com/VisionForInnovation/navier-stokes/blob/a5e54f40658bfc78a633f6e86292f54983676acd/navier_stokes_blogs.html]
 
 ## About This Project
-Written by [Your Name] - Software Engineer at Intuit
-Deep research on AI capabilities and mathematical breakthroughs.
+Written by Shambhu Phaltane - Software Engineer
 
 ## Sources
 - Clay Mathematics Institute
